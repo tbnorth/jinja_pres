@@ -1,0 +1,14 @@
+[
+    {
+        "title": "EPA Announces Partnership to Reduce Childhood Lead Exposure",
+        "date": "10/03/2019",
+        "body": "This new MOU provides a framework for a coordinated approach between more than a dozen critical partners across the federal government, tribes, water utilities and the public health community. The commitments of the MOU support the Lead Action Plan, which provides a blueprint for reducing lead exposure and associated harms by working with a range of stakeholders, including states, tribes and local communities, along with businesses, property owners and parents. One existing effort that is further supported by this MOU is EPA’s 3Ts—training, testing and taking action—for Reducing Lead in Drinking Water in School and Child Care Facilities.",
+        "imgs": ["frog", "log"]
+    },
+    {
+        "title": "EPA Recognizes Leaders in Reducing Water Waste",
+        "date": "10/07/2019",
+        "body": "The City of Charlottesville (Va.) was presented its second Sustained Excellence Award for rebating WaterSense labeled toilets and providing University of Virginia student apartments with WaterSense labeled showerheads and faucet aerators, which will help save an estimated 60 million gallons of water annually.",
+        "imgs": ["wastebin", "plastic_bottle"]
+    }
+]

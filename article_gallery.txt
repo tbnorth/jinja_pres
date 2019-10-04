@@ -1,0 +1,15 @@
+{% extends "article_general.txt" %}
+
+{% block body -%}
+{{ super() }}
+Gallery
+^^^^^^^
+
+{% for img in article.imgs -%}
+[Image: {{img}}]
+{% endfor %}
+
+{% endblock -%}
+{% block navigation -%}
+  {{ super() }}| Download images
+{% endblock %}

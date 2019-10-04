@@ -1,0 +1,12 @@
+{{article.title}}
+{{'=' * (article.title | length)}}
+
+{{article.date}}
+
+{% block body -%}
+{{article.body | wordwrap}}
+{% endblock -%}
+
+Disclaimer: There is always a disclaimer.
+
+{% block navigation %}  Home | About | Contact {% endblock %}
